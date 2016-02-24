@@ -1,0 +1,1 @@
+# unablecopyright.js
